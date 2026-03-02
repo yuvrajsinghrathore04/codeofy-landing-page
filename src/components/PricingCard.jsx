@@ -11,7 +11,7 @@ export default function PricingCard({
         highlight
           ? "bg-blue-950 text-white scale-105"
           : dark
-          ? "bg-blue-500/10 border-b-blue-900 text-white"
+          ? "bg-blue-500/10 border-b-blue-900 text-black"
           : "bg-white text-gray-800"
       }`}
     >
