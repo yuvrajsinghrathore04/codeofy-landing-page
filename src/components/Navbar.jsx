@@ -18,17 +18,20 @@ export default function Navbar() {
 
         {/* Links */}
         <div className="hidden md:flex gap-8 text-sm text-black">
-          <a href="#features" className="hover:text-teal-500 transition">
+          <a href="#features" className="hover:text-white transition">
             Features
           </a>
-          <a href="#how-it-works" className="hover:text-teal-500 transition">
+          <a href="#how-it-works" className="hover:text-white transition">
             How It Works
           </a>
-          <a href="#pricing" className="hover:text-teal-500 transition">
+          <a href="#pricing" className="hover:text-white transition">
             Pricing
           </a>
-          <a href="#testimonials" className="hover:text-teal-500 transition">
+          <a href="#testimonials" className="hover:text-white transition">
             Testimonials
+          </a>
+          <a href="#community" className="hover:text-white transition">
+            Community
           </a>
         </div>
 

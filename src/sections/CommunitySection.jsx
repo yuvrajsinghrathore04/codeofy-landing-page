@@ -4,7 +4,7 @@ import blog2 from "../assets/blog2.jpg";
 
 export default function CommunitySection() {
     return (
-        <section className="py-24 bg-gradient-to-b from-blue-400/70 to-white text-center">
+        <section id="community" className="py-24 bg-gradient-to-b from-blue-400/70 to-white text-center">
             <div className="max-w-6xl mx-auto px-6">
 
                 <h2 className="text-4xl md:text-5xl font-bold mb-16">
