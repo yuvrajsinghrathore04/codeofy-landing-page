@@ -5,7 +5,9 @@ import HowItWorksSection from "./sections/HowItWorksSection";
 import PricingSection from "./sections/PricingSection";
 import TestimonialsSection from "./sections/TestimonialsSection";
 import CommunitySection from "./sections/CommunitySection";
+import ContactSection from "./sections/ContactSection";
 import Footer from "./sections/Footer"
+
 function App() {
   return (
     <>
@@ -16,6 +18,7 @@ function App() {
       <PricingSection />
       <TestimonialsSection />
       <CommunitySection />
+      <ContactSection />
       <Footer />
     </>
   );

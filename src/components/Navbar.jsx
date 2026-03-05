@@ -33,6 +33,9 @@ export default function Navbar() {
           <a href="#community" className="hover:text-white transition">
             Community
           </a>
+          <a href="#contact" className="hover:text-white transition">
+            Contact
+          </a>
         </div>
 
         {/* Button */}
